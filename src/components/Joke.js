@@ -35,10 +35,9 @@ export default function Joke({ setup, punchline, num }) {
             </p>
             <a
               href="https://heyzine.com/flip-book/6bd6fc7386.html"
-              target="_blank"
               id="heart"
               class="button"
-            ></a>{" "}
+            ></a>
           </div>
         )}
         <button onClick={toggleShown}>{isShown ? "أخفي" : "أضغط ❤️"}</button>
