@@ -26,7 +26,6 @@ function App() {
 
  return (
     <div className="App">
-      {/* <Sound/> */}
       <Joke/>
       {/* <Joke num={1} setup="What’s the best thing about Switzerland?" punchline="I don’t know, but the flag is a big plus." />
       <Joke num={2} setup="I invented a new word!" punchline="Plagiarism!" />
